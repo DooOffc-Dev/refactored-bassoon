@@ -61,7 +61,7 @@ module.exports = {
     replyImageUrl: 'https://img2.pixhost.to/images/7829/725106182_asd-botz.jpg',
     
     // Pairing Code
-    pairingCode: 'DOOhttps://img2.pixhost.to/images/7829/725106182_asd-botz.jpg',
+    pairingCode: 'DOOOBOTZ',
     autoPair: true,
     
     // Limit & Premium
