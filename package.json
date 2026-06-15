@@ -1,0 +1,17 @@
+{
+  "name": "doohigh-bot",
+  "version": "2.4.0",
+  "description": "DooHIGH WhatsApp Bot - Full Feature Anti Call, Anti Chat, Fake Forward Channel Effect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.17.2",
+    "axios": "^1.6.0"
+  },
+  "author": "DooOffc 17",
+  "license": "MIT"
+}
